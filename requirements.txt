@@ -1,6 +1,6 @@
 numpy==1.19.5
 scikit-learn==0.24.1
-Django==3.2.8
+Django==3.1
 django-cors-headers==3.10.0
 django-filter==21.1
 djangorestframework==3.12.4
